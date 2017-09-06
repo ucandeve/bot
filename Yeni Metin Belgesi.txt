@@ -1,0 +1,3 @@
+351434670065451010
+MzUxNDM0NjcwMDY1NDUxMDEw.DISi8Q.CChkE4rdzMMsqTAiV1Rm_bKJzvA
+https://discordapp.com/api/oauth2/authorize?client_id=157730590492196864&scope=bot&permissions=0

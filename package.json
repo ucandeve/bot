@@ -1,0 +1,20 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "ffmpeg": "0.0.4",
+    "google-translate-api": "^2.3.0",
+    "mitsuku-api": "^0.2.1",
+    "opusscript": "0.0.3",
+    "youtube-search": "^1.0.10",
+    "ytdl-core": "^0.16.2"
+  }
+}
